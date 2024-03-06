@@ -1,4 +1,3 @@
-# 🚀 Welcome to my GitHub Journey! 💻
 
 👋 Hello, World! I'm Jesna Seby, a dedicated BTech student with a strong foundation in Java and C programming languages. While I may be just starting out on my coding adventure, I'm eager to learn, grow, and make meaningful contributions to the world of software development.
 
