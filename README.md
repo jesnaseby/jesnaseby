@@ -1,9 +1,9 @@
 
-👋 Hello, World! I'm Jesna Seby, a dedicated BTech student with a strong foundation in Java and C programming languages. While I may be just starting out on my coding adventure, I'm eager to learn, grow, and make meaningful contributions to the world of software development.
+👋 Hello, World! I'm Jesna Seby, a dedicated BTech student with a strong foundation in Python and C programming languages. While I may be just starting out on my coding adventure, I'm eager to learn, grow, and make meaningful contributions to the world of software development.
 
 ## 💻 Tech Skills:
 
-- **Languages**: Proficient in Java and C programming languages, with a solid understanding of object-oriented programming principles and low-level system programming concepts.
+- **Languages**: Proficient in Python and C programming languages, with a solid understanding of object-oriented programming principles and low-level system programming concepts.
 
 ## 🔍 What Drives Me:
 
