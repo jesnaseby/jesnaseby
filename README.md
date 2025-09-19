@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=Black" />
+  <img src="https://img.shields.io/badge/AI-4285F4?style=for-the-badge&logo=google&logoColor=Black" />
+  <img src="https://img.shields.io/badge/NLP-1DA1F2?style=for-the-badge&logo=twitter&logoColor=Black" />
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages & Technologies
