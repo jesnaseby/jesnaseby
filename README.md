@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Jesna Seby! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=BTech+AI+Student;Python+%26+C+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="50" alt="wave gif" />
   <br>
   <em>Passionate Computer Science & AI student crafting solutions with Python & C | Building the future, one algorithm at a time</em>
