@@ -1,12 +1,3 @@
-<h1 align="center">Hi there, I'm Jesna Seby! 👋</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="50" alt="wave gif" />
-  <br>
-  <em>Passionate Computer Science & AI student crafting solutions with Python & C | Building the future, one algorithm at a time</em>
-</p>
-
----
 
 ## 🚀 About Me
 
@@ -54,19 +45,6 @@ class JesnaSeby:
 
 🥇 **Machine Learning Elite Certificate** - IIT Madras & KTH Sweden (NPTEL) | March 2025  
 🛡️ **Cyber Ethics Excellence** - Ministry of Electronics & IT, India (90% Score)  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JESNA-SEBY&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JESNA-SEBY&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JESNA-SEBY&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ---
 
