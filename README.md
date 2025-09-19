@@ -1,10 +1,10 @@
-## 🚀 About Me
+🚀 **About Me**
 🎓 **BTech Computer Science & Engineering (AI)** student at SCMS School of Engineering and Technology  
 🏆 **Elite Certificate** holder in Machine Learning from IIT Madras via NPTEL  
 💡 **Problem Solver** who loves turning complex challenges into elegant solutions  
 🌱 Currently diving deep into **Data Structures and AI/ML**
 
-## 🛠️ Tech Stack & Skills
+🛠️ **Tech Stack & Skills**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,tensorflow,pytorch,linux,git,vscode,github&theme=dark" />
 </p>
@@ -38,11 +38,11 @@ class JesnaSeby:
         return "Building projects that make a difference! 🌟"
 ```
 
-## 🏆 Achievements & Certifications
+🏆 **Achievements & Certifications**
 🥇 **Machine Learning Elite Certificate** - IIT Madras (NPTEL) | March 2025  
 🛡️ **Cyber Ethics Excellence** - Ministry of Electronics & IT, India (90% Score)  
 
-## 📫 Let's Connect!
+📫 **Let's Connect!**
 <p align="center">
   <a href="https://linkedin.com/in/jesna-seby">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
