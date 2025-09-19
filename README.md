@@ -32,20 +32,18 @@
 ```python
 class JesnaSeby:
     def __init__(self):
-        self.role = "BTech AI Student"
+        self.role = "B.Tech Computer Science and Engineering (AI) Student"
         self.location = "Thrissur, Kerala, India"
-        self.languages = ["Python", "C", "JavaScript"]
+        self.languages = ["Python", "C", "Java"]
         self.learning = [
             "Data Structures & Algorithms",
             "Machine Learning", 
             "Systems Programming",
             "Artificial Intelligence",
-            "Embedded Systems"
         ]
         self.tools = ["VS Code", "Git", "Linux", "GCC"]
         self.interests = [
             "Problem Solving",
-            "Open Source",
             "AI/ML Research",
             "Competitive Programming"
         ]
@@ -58,9 +56,8 @@ class JesnaSeby:
 
 ## 🏆 Achievements & Certifications
 
-🥇 **Machine Learning Elite Certificate** - IIT Madras (NPTEL) | March 2025  
+🥇 **Machine Learning Elite Certificate** - IIT Madras & KTH Sweden (NPTEL) | March 2025  
 🛡️ **Cyber Ethics Excellence** - Ministry of Electronics & IT, India (90% Score)  
-🎯 **Academic Excellence** - Consistent performer in BTech AI program
 
 ---
 
@@ -77,24 +74,6 @@ class JesnaSeby:
 
 ---
 
-## 🎯 Current Goals
-
-- 🔭 Working on **AI/ML projects** to apply theoretical knowledge
-- 🌱 Exploring **competitive programming** and algorithm optimization
-- 👯 Looking to collaborate on **open-source Python projects**
-- 🤔 Interested in **research opportunities** in AI and machine learning
-- 📫 Building a portfolio of **impactful projects**
-
----
-
-## 🌟 Fun Facts
-
-⚡ I believe every problem has an elegant solution waiting to be discovered  
-🎨 I enjoy the art of writing clean, efficient code  
-🌍 Always eager to learn from the amazing developer community  
-🚀 Dream of contributing to AI technologies that help humanity  
-
----
 
 ## 📫 Let's Connect!
 
