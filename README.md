@@ -1,6 +1,6 @@
 ## 🚀 About Me
 🎓 **BTech Computer Science & Engineering (AI)** student at SCMS School of Engineering and Technology  
-🏆 **Certificate** holder in Machine Learning from IIT Madras via NPTEL  
+🏆 **Elite Certificate** holder in Machine Learning from IIT Madras via NPTEL  
 💡 **Problem Solver** who loves turning complex challenges into elegant solutions  
 🌱 Currently diving deep into **Data Structures and AI/ML**
 
@@ -8,7 +8,13 @@
 
 ## 🛠️ Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,linux,git,vscode, AI, NLP github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,linux,git,vscode,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages & Technologies
