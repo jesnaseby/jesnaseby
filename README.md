@@ -1,30 +1,12 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hey, I'm Jesna! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<p align="center">
-  <em>BTech AI Student | Python & C Enthusiast | Problem Solver Extraordinaire</em>
-  <br>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  <em>Currently turning caffeine into code ☕️→💻</em>
-</p>
+## 🚀 About Me
+🎓 **BTech Computer Science & Engineering (AI)** student at SCMS School of Engineering and Technology  
+🏆 **Elite Certificate** holder in Machine Learning from IIT Madras via NPTEL  
+💡 **Problem Solver** who loves turning complex challenges into elegant solutions  
+🌱 Currently diving deep into **Data Structures and AI/ML**
 
 ---
 
-### 🎯 Quick Facts
-```python
-jesna = {
-    "status": "B.Tech AI Student @ SCMS Kerala 🎓",
-    "superpowers": ["Python", "C", "Java"],
-    "current_quest": "Mastering Data Structures & ML 🚀",
-    "achievements": ["🥇 ML Elite Cert (IIT Madras)", "🛡️ Cyber Ethics Pro (90%)"],
-    "vibe": "Building cool stuff & solving puzzles 🧩"
-}
-```
-
-### 🛠️ My Arsenal
+## 🛠️ Tech Stack & Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -32,30 +14,56 @@ jesna = {
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-### 🎮 Currently Playing With
-- 🧠 **Data Structures & Algorithms** (the fun puzzles!)
-- 🤖 **Machine Learning** (teaching computers to be smart)
-- 💻 **Systems Programming** (talking to the machine)
-- 🏆 **Competitive Programming** (because why not?)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages & Technologies
+```python
+class JesnaSeby:
+    def __init__(self):
+        self.role = "B.Tech Computer Science and Engineering (AI) Student"
+        self.location = "Thrissur, Kerala, India"
+        self.languages = ["Python", "C", "Java"]
+        self.learning = [
+            "Data Structures & Algorithms",
+            "Machine Learning", 
+            "Systems Programming",
+            "Artificial Intelligence"
+        ]
+        self.tools = ["VS Code", "Git", "Linux", "GCC"]
+        self.interests = [
+            "Problem Solving",
+            "AI/ML Research",
+            "Competitive Programming"
+        ]
+    
+    def current_focus(self):
+        return "Building projects that make a difference! 🌟"
+```
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
-  
-  **Let's be coding buddies!** 
-  
-  [![LinkedIn](https://img.shields.io/badge/-jesna--seby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jesna-seby)](https://linkedin.com/in/jesna-seby)
-  [![Email](https://img.shields.io/badge/-Say%20Hi!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jesna.seby@example.com)](mailto:jesna.seby@example.com)
-  
-  <sub>💡 <i>Always up for discussing tech, collaborating on projects, or just geeking out about AI!</i></sub>
-</div>
+## 🏆 Achievements & Certifications
+🥇 **Machine Learning Elite Certificate** - IIT Madras (NPTEL) | March 2025  
+🛡️ **Cyber Ethics Excellence** - Ministry of Electronics & IT, India (90% Score)  
 
 ---
+
+## 📫 Let's Connect!
+<p align="center">
+  <a href="https://linkedin.com/in/jesna-seby">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jesna.seby@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/JESNA-SEBY">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <br>
-  <sub><i>"Code is poetry in motion" ✨</i></sub>
+  <em><b>I love connecting with fellow developers and learners!</b><br>
+  Feel free to reach out if you want to collaborate, discuss tech, or just say hi! 😊</em>
 </p>
+
+---
