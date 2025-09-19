@@ -71,11 +71,3 @@ class JesnaSeby:
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JESNA-SEBY&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  
-  <br><br>
-  
-  <i>⭐️ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</div>
