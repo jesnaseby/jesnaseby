@@ -2,10 +2,9 @@
 ## 🚀 About Me
 
 🎓 **BTech Computer Science & Engineering (AI)** student at SCMS School of Engineering and Technology  
-🏆 **Elite Certificate** holder in Machine Learning from IIT Madras via NPTEL  
-🛡️ **Cyber Security Enthusiast** with 90% score in National Cyber Ethics Quiz  
+🏆 **Certificate** holder in Machine Learning from IIT Madras via NPTEL  
 💡 **Problem Solver** who loves turning complex challenges into elegant solutions  
-🌱 Currently diving deep into **Data Structures, Algorithms, and AI/ML**
+🌱 Currently diving deep into **Data Structures, and AI/ML**
 
 ---
 
