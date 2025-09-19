@@ -4,13 +4,10 @@
 💡 **Problem Solver** who loves turning complex challenges into elegant solutions  
 🌱 Currently diving deep into **Data Structures and AI/ML**
 
----
-
 ## 🛠️ Tech Stack & Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,tensorflow,pytorch,linux,git,vscode,github&theme=dark" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-4285F4?style=flat-square&logo=brain&logoColor=white" />
@@ -41,13 +38,9 @@ class JesnaSeby:
         return "Building projects that make a difference! 🌟"
 ```
 
----
-
 ## 🏆 Achievements & Certifications
 🥇 **Machine Learning Elite Certificate** - IIT Madras (NPTEL) | March 2025  
 🛡️ **Cyber Ethics Excellence** - Ministry of Electronics & IT, India (90% Score)  
-
----
 
 ## 📫 Let's Connect!
 <p align="center">
@@ -68,5 +61,3 @@ class JesnaSeby:
   <em><b>I love connecting with fellow developers and learners!</b><br>
   Feel free to reach out if you want to collaborate, discuss tech, or just say hi! 😊</em>
 </p>
-
----
