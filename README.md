@@ -13,8 +13,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,linux,git,vscode,github&theme=dark" />
 </p>
-
-### 💻 Languages & Technologies
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 💻 Languages & Technologies
 ```python
 class JesnaSeby:
     def __init__(self):
