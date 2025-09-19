@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+---
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages & Technologies
 ```python
 class JesnaSeby:
