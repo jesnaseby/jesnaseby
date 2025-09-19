@@ -1,35 +1,128 @@
-<h1 align="left">Hi, I'm Jesna Seby 👋</h1>
-<p align="left">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="60" alt="wave gif" />
-  <em>I'm a BTech student learning to build things with Python & C. Passionate about problem solving, open-source, and continuous learning.</em>
+<h1 align="center">Hi there, I'm Jesna Seby! 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=BTech+AI+Student;Python+%26+C+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="50" alt="wave gif" />
+  <br>
+  <em>Passionate Computer Science & AI student crafting solutions with Python & C | Building the future, one algorithm at a time</em>
 </p>
 
 ---
 
-### 🎯 About me
-- 🎓 BTech student with strong foundations in **Python** and **C**.
-- 🧩 I enjoy solving algorithms, exploring systems-level programming, and building small projects to learn.
-- 🚀 Actively learning data structures, OOP, and competitive programming.
+## 🚀 About Me
 
-### 💻 Technical snapshot
-```javascript
-const jesna = {
-  pronouns: "she" | "her",
-  role: "BTech student",
-  learning: ["Data Structures", "Algorithms", "Systems Programming", "Embedded C"],
-  languages: ["Python", "C"],
-  tools: ["GCC", "VS Code", "Git", "Linux"],
-  interests: ["Problem Solving", "Open Source", "Microcontroller Projects"]
-};
+🎓 **BTech Computer Science & Engineering (AI)** student at SCMS School of Engineering and Technology  
+🏆 **Elite Certificate** holder in Machine Learning from IIT Madras via NPTEL  
+🛡️ **Cyber Security Enthusiast** with 90% score in National Cyber Ethics Quiz  
+💡 **Problem Solver** who loves turning complex challenges into elegant solutions  
+🌱 Currently diving deep into **Data Structures, Algorithms, and AI/ML**
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,linux,git,vscode,github&theme=dark" />
+</p>
+
+### 💻 Languages & Technologies
+```python
+class JesnaSeby:
+    def __init__(self):
+        self.role = "BTech AI Student"
+        self.location = "Thrissur, Kerala, India"
+        self.languages = ["Python", "C", "JavaScript"]
+        self.learning = [
+            "Data Structures & Algorithms",
+            "Machine Learning", 
+            "Systems Programming",
+            "Artificial Intelligence",
+            "Embedded Systems"
+        ]
+        self.tools = ["VS Code", "Git", "Linux", "GCC"]
+        self.interests = [
+            "Problem Solving",
+            "Open Source",
+            "AI/ML Research",
+            "Competitive Programming"
+        ]
+    
+    def current_focus(self):
+        return "Building projects that make a difference! 🌟"
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+---
+
+## 🏆 Achievements & Certifications
+
+🥇 **Machine Learning Elite Certificate** - IIT Madras (NPTEL) | March 2025  
+🛡️ **Cyber Ethics Excellence** - Ministry of Electronics & IT, India (90% Score)  
+🎯 **Academic Excellence** - Consistent performer in BTech AI program
 
 ---
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JESNA-SEBY&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JESNA-SEBY&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JESNA-SEBY&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🔭 Working on **AI/ML projects** to apply theoretical knowledge
+- 🌱 Exploring **competitive programming** and algorithm optimization
+- 👯 Looking to collaborate on **open-source Python projects**
+- 🤔 Interested in **research opportunities** in AI and machine learning
+- 📫 Building a portfolio of **impactful projects**
+
+---
+
+## 🌟 Fun Facts
+
+⚡ I believe every problem has an elegant solution waiting to be discovered  
+🎨 I enjoy the art of writing clean, efficient code  
+🌍 Always eager to learn from the amazing developer community  
+🚀 Dream of contributing to AI technologies that help humanity  
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/jesna-seby">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jesna.seby@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/JESNA-SEBY">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <br>
+  <em><b>I love connecting with fellow developers and learners!</b><br>
+  Feel free to reach out if you want to collaborate, discuss tech, or just say hi! 😊</em>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JESNA-SEBY&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  
+  <br><br>
+  
+  <i>⭐️ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</div>
