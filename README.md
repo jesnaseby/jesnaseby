@@ -1,26 +1,30 @@
-
-👋 Hello, World! I'm Jesna Seby, a dedicated BTech student with a strong foundation in Python and C programming languages. While I may be just starting out on my coding adventure, I'm eager to learn, grow, and make meaningful contributions to the world of software development.
-
-## 💻 Tech Skills:
-
-- **Languages**: Proficient in Python and C programming languages, with a solid understanding of object-oriented programming principles and low-level system programming concepts.
-
-## 🔍 What Drives Me:
-
-- **Passion for Problem Solving**: I'm fascinated by the art of problem-solving and enjoy tackling coding puzzles and challenges that stretch my abilities and expand my knowledge.
-- **Commitment to Learning**: With a thirst for knowledge and a growth mindset, I actively seek out opportunities to enhance my skills, whether through online courses, coding exercises, or peer collaboration.
-
-## Let's Learn and Grow Together!
-
-🤝 I'm always open to collaborating with like-minded individuals, whether it's for projects, discussions, or simply sharing knowledge. Feel free to reach out to me via email or connect with me on LinkedIn.
-
-
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Hi, I'm Jesna Seby 👋</h1>
 <p align="left">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="60" alt="wave gif" />
+  <em>I'm a BTech student learning to build things with Python & C. Passionate about problem solving, open-source, and continuous learning.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 🎯 About me
+- 🎓 BTech student with strong foundations in **Python** and **C**.
+- 🧩 I enjoy solving algorithms, exploring systems-level programming, and building small projects to learn.
+- 🚀 Actively learning data structures, OOP, and competitive programming.
 
-
+### 💻 Technical snapshot
+```javascript
+const jesna = {
+  pronouns: "she" | "her",
+  role: "BTech student",
+  learning: ["Data Structures", "Algorithms", "Systems Programming", "Embedded C"],
+  languages: ["Python", "C"],
+  tools: ["GCC", "VS Code", "Git", "Linux"],
+  interests: ["Problem Solving", "Open Source", "Microcontroller Projects"]
+};
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+</p>
