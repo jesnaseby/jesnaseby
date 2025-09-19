@@ -38,7 +38,7 @@ class JesnaSeby:
 ---
 
 ## 🏆 Achievements & Certifications
-🥇 **Machine Learning Elite Certificate** - IIT Madras (NPTEL) | March 2025  
+🥇 **Machine Learning Certificate** - IIT Madras (NPTEL) | March 2025  
 🛡️ **Cyber Ethics Excellence** - Ministry of Electronics & IT, India (90% Score)  
 
 ---
