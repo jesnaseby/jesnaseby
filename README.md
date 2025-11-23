@@ -21,7 +21,6 @@ class JesnaSeby:
         self.role = "B.Tech Computer Science and Engineering (AI) Student"
         self.location = "Thrissur, Kerala, India"
         
-        # Programming Languages
         self.languages = [
             "Python",
             "Java (Basics)",
@@ -32,15 +31,12 @@ class JesnaSeby:
             "HTML & CSS"
         ]
 
-        # Currently Learning
         self.learning = [
             "Data Structures & Algorithms",
             "Machine Learning",
             "Systems Programming",
             "Artificial Intelligence"
         ]
-
-        # Frameworks & Tools
         self.tools = [
             "Node.js",
             "React",
@@ -51,8 +47,6 @@ class JesnaSeby:
             "Linux",
             "GCC"
         ]
-
-        # AI / ML Skills
         self.ai_skills = [
             "Machine Learning",
             "Natural Language Processing (NLP)",
@@ -60,8 +54,6 @@ class JesnaSeby:
             "Conversational AI",
             "LLM Models"
         ]
-
-        # Interests
         self.interests = [
             "Problem Solving",
             "AI/ML Research",
