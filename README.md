@@ -20,22 +20,57 @@ class JesnaSeby:
     def __init__(self):
         self.role = "B.Tech Computer Science and Engineering (AI) Student"
         self.location = "Thrissur, Kerala, India"
-        self.languages = ["Python", "C", "Java"]
+        
+        # Programming Languages
+        self.languages = [
+            "Python",
+            "Java (Basics)",
+            "C",
+            "C++",
+            "JavaScript",
+            "TypeScript",
+            "HTML & CSS"
+        ]
+
+        # Currently Learning
         self.learning = [
             "Data Structures & Algorithms",
-            "Machine Learning", 
+            "Machine Learning",
             "Systems Programming",
             "Artificial Intelligence"
         ]
-        self.tools = ["VS Code", "Git", "Linux", "GCC"]
+
+        # Frameworks & Tools
+        self.tools = [
+            "Node.js",
+            "React",
+            "Tailwind CSS",
+            "Git & GitHub",
+            "VS Code",
+            "Jupyter Notebook",
+            "Linux",
+            "GCC"
+        ]
+
+        # AI / ML Skills
+        self.ai_skills = [
+            "Machine Learning",
+            "Natural Language Processing (NLP)",
+            "Sentiment Analysis",
+            "Conversational AI",
+            "LLM Models"
+        ]
+
+        # Interests
         self.interests = [
             "Problem Solving",
             "AI/ML Research",
             "Competitive Programming"
         ]
-    
+
     def current_focus(self):
         return "Building projects that make a difference! 🌟"
+
 ```
 
 🏆 **Achievements & Certifications**
